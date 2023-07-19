@@ -1,4 +1,7 @@
 Hello :)
+
+[![wakatime](https://wakatime.com/badge/user/18ac89f5-baf8-49e6-a5ee-d9272435ce3a/project/3e6541fd-578f-4d9d-9080-f2a42b2d10e1.svg)](https://wakatime.com/badge/user/18ac89f5-baf8-49e6-a5ee-d9272435ce3a/project/3e6541fd-578f-4d9d-9080-f2a42b2d10e1)
+
 <!--START_SECTION:waka-->
 
 ```txt
