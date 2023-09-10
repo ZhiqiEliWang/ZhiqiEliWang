@@ -4,20 +4,20 @@ Hello :)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2022 - To: 07 September 2023
+From: 25 September 2022 - To: 08 September 2023
 
-Total Time: 510 hrs 4 mins
+Total Time: 510 hrs 26 mins
 
-Python                150 hrs 20 mins >>>>>>>------------------   29.48 %
-C                     77 hrs 53 mins  >>>>---------------------   15.27 %
-Jupyter               72 hrs 44 mins  >>>>---------------------   14.26 %
-TeX                   65 hrs 17 mins  >>>----------------------   12.80 %
+Python                150 hrs 30 mins >>>>>>>------------------   29.49 %
+C                     77 hrs 53 mins  >>>>---------------------   15.26 %
+Jupyter               72 hrs 44 mins  >>>>---------------------   14.25 %
+TeX                   65 hrs 17 mins  >>>----------------------   12.79 %
 Java                  32 hrs 12 mins  >>-----------------------   06.31 %
-C++                   18 hrs 38 mins  >------------------------   03.66 %
+C++                   18 hrs 38 mins  >------------------------   03.65 %
 SQL                   16 hrs 12 mins  >------------------------   03.18 %
 ObjectiveC            13 hrs 3 mins   >------------------------   02.56 %
 Text                  12 hrs 32 mins  >------------------------   02.46 %
-V                     11 hrs 54 mins  >------------------------   02.34 %
+V                     11 hrs 54 mins  >------------------------   02.33 %
 ```
 
 <!--END_SECTION:waka-->
