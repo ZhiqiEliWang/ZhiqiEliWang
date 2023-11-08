@@ -4,9 +4,9 @@ Hello :)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2022 - To: 05 November 2023
+From: 25 September 2022 - To: 06 November 2023
 
-Total Time: 587 hrs 11 mins
+Total Time: 587 hrs 12 mins
 
 Python                192 hrs 47 mins >>>>>>>>-----------------   32.83 %
 TeX                   83 hrs 17 mins  >>>>---------------------   14.19 %
