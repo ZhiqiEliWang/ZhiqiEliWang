@@ -4,13 +4,13 @@ Hello :)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2022 - To: 20 March 2024
+From: 25 September 2022 - To: 21 March 2024
 
-Total Time: 665 hrs 11 mins
+Total Time: 665 hrs 30 mins
 
-Python                240 hrs 31 mins >>>>>>>>>----------------   36.16 %
-Jupyter               99 hrs 18 mins  >>>>---------------------   14.93 %
-TeX                   86 hrs 34 mins  >>>----------------------   13.02 %
+Python                240 hrs 50 mins >>>>>>>>>----------------   36.19 %
+Jupyter               99 hrs 18 mins  >>>>---------------------   14.92 %
+TeX                   86 hrs 34 mins  >>>----------------------   13.01 %
 C                     77 hrs 59 mins  >>>----------------------   11.72 %
 Java                  32 hrs 12 mins  >------------------------   04.84 %
 C++                   18 hrs 38 mins  >------------------------   02.80 %
